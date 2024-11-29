@@ -53,7 +53,7 @@ Clone o repositório do projeto para a sua máquina:
 
 ```bash
 git clone <URL_DO_REPOSITORIO>
-cd todolist-backend
+cd <nome_do_repositorio>
 ```
 
 ### 3. **Instale as Dependências**
